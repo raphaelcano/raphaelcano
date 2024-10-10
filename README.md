@@ -50,7 +50,7 @@
 
 <hr size="2" color="blue" width="100%">
 
-### Data Analyses:chart_with_upwards_trend:
+### Data Analyses
  <table>
   <tr>
     <th> Title </th>
