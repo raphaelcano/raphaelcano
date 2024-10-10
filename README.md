@@ -19,7 +19,7 @@
 5. Business Administration
 <hr size="2" color="blue" width="100%">
 
-### Machine Learning - Classification 🗄️
+### Machine Learning - 
 <table>
   <tr>
     <th> Title </th>
@@ -65,7 +65,7 @@
 
 <hr size="2" color="blue" width="100%">
 
-### Quality :mag_right:
+### Finance :mag_right:
  <table>
   <tr>
     <th> Title </th>
@@ -80,7 +80,20 @@
 </table>
 <!--
 
-
+### Business Administration
+ <table>
+  <tr>
+    <th> Title </th>
+    <th> Article</th>
+    <th>Repository</th>
+  </tr>
+  <tr>
+    <td>Coming soon</td>
+    <td><em>Coming soon<em></td>
+    <td><em>Coming soon<em></td>
+  </tr>
+</table>
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
