@@ -3,7 +3,7 @@
 -  Thanks for showing up
 - :computer: I’m an Electrical Engineer with a Master’s in Business Administration and over 12 years of experience, focusing on IT service management and project management.
              I’m passionate about leveraging technology to solve complex challenges and optimize systems.
-- 🌱 Currently, I'm expanding my knowledge in data science and exploring new ways to integrate IT and business insights.
+- 🌱 Currently, I'm expanding my knowledge in data science, artificial intelligence (AI) and exploring new ways to integrate IT, AI and business insights.
 - ⚡ Passions: Reading 📚, Movies 🎥, and Sports 🏀
 - 📫 Follow me on <a href="https://www.linkedin.com/in/raphaelcano/">Linkedin</a> and <a href="https://medium.com/@raphael.cano19">Medium</a>
 - :sparkles:I welcome you to join me on a learning journey. Let's go ? :wink:
@@ -80,20 +80,7 @@
 </table>
 <!--
 
-### Business Administration
- <table>
-  <tr>
-    <th> Title </th>
-    <th> Article</th>
-    <th>Repository</th>
-  </tr>
-  <tr>
-    <td>Coming soon</td>
-    <td><em>Coming soon<em></td>
-    <td><em>Coming soon<em></td>
-  </tr>
-</table>
-<!--
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
