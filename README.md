@@ -1,10 +1,11 @@
 ### Hello, I'm Raphael Cano 
 
 -  Thanks for showing up
-- :computer: I'm a constant learner, curious explorer, quality expert and data-driven person. I love solving data problems using technology and quality tools
-- 🌱 I’m currently learning data science tools and quality tools.
-- ⚡ Passions: :sunny: :leaves: :apple:
-- 📫 Follow me on <a href="https://www.linkedin.com/in/amanda-rnds/">Linkedin</a> and <a href="https://medium.com/@amanda.rnds18">Medium</a>
+- :computer: I’m an Electrical Engineer with a Master’s in Business Administration and over 12 years of experience, focusing on IT service management and project management.
+             I’m passionate about leveraging technology to solve complex challenges and optimize systems.
+- 🌱 Currently, I'm expanding my knowledge in data science and exploring new ways to integrate IT and business insights.
+- ⚡ Passions: Reading 📚, Movies 🎥, and Sports 🏀
+- 📫 Follow me on <a href="https://www.linkedin.com/in/raphaelcano/">Linkedin</a> and <a href="https://medium.com/@raphael.cano19">Medium</a>
 - :sparkles:I welcome you to join me on a learning journey. Let's go ? :wink:
 - :point_down: You can find my datascience portifolio below that are been buiding with quite inspiration,curiosity and motivation. 
 
