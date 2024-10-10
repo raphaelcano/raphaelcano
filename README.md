@@ -15,7 +15,8 @@
 1. Machine Learning 
 2. Python
 3. Data Analyses
-4. Quality Tools
+4. Finance
+5. Business Administration
 <hr size="2" color="blue" width="100%">
 
 ### Machine Learning - Classification 🗄️
